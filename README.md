@@ -9,8 +9,8 @@
 ## 課程筆記區
 
 ## 作業連結區
-1.2023/3/9 [作業一](https://github.com/Ashlee9133/112-1-NTNU_TAHRD_Programming-Language/blob/main/0309_Week3_Homework1（final).ipynb)
-(連結複製不過來尚在解決問題中，老師可點選上方檔案直接觀看作業)
+1.2023/3/9 [作業一](https://github.com/Ashlee9133/112-1-NTNU_TAHRD_Programming-Language/blob/main/0309_Week3_Hw1.ipynb)
+(因作業一上傳時檔名用了括號，無法成功複製作業連結，所以重新上傳了一份，但第一次商船的作業一仍保留，代表我有準時交作業的證據）
 
 
 
