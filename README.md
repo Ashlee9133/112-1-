@@ -17,7 +17,7 @@
 
 2. 2023/3/23 [作業二](https://github.com/Ashlee9133/112-1-NTNU_TAHRD_Programming-Language/blob/main/HW2.ipynb)
 
-3. 2023/4/6 [作業三]（https://github.com/Ashlee9133/112-1-NTNU_TAHRD_Programming-Language/blob/main/HW3.ipynb）
+3. 2023/4/6 [作業三](https://github.com/Ashlee9133/112-1-NTNU_TAHRD_Programming-Language/blob/main/HW3.ipynb)
 
 
 
