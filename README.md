@@ -19,7 +19,19 @@
 
 3. 2023/4/6 [作業三](https://github.com/Ashlee9133/112-1-NTNU_TAHRD_Programming-Language/blob/main/HW3.ipynb)
 
-4. 2023/4/6 [作業四]
+4. 2023/4/6 [作業四](https://github.com/Ashlee9133/112-1-NTNU_TAHRD_Programming-Language/blob/main/HW4_2.ipynb)
+作業四上遇到一些mac電腦相容性的問題（我還太菜不會解決ＱＱ），用window電腦vscode跑是沒問題的
+還不會用readme貼圖片，所以跑出來的結果程式碼我貼在裡
+```powershell
+PS C:\Users\Patrick\Documents\GitHub\algo> python a.py
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\Patrick\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\Patrick\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+
+```
 
 
 
