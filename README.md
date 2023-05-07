@@ -31,7 +31,9 @@ PS C:\Users\Patrick\Documents\GitHub\algo> python a.py
 [nltk_data]     C:\Users\Patrick\AppData\Roaming\nltk_data...
 [nltk_data]   Package stopwords is already up-to-date!
 
-```![345261136_254357717004633_3305157075479743131_n](https://user-images.githubusercontent.com/99531648/236668007-607fb31a-fdbb-465b-91fe-c1c61a90d1bf.png)
+```  
+
+![345261136_254357717004633_3305157075479743131_n](https://user-images.githubusercontent.com/99531648/236668007-607fb31a-fdbb-465b-91fe-c1c61a90d1bf.png)
 
 
 
