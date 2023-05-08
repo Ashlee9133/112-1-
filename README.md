@@ -22,6 +22,7 @@
 4. 2023/4/6 [作業四](https://github.com/Ashlee9133/112-1-NTNU_TAHRD_Programming-Language/blob/main/HW4_2.ipynb)
 作業四上遇到一些mac電腦相容性的問題（我還太菜不會解決ＱＱ），用window電腦vscode跑是沒問題的
 ，所以跑出來的結果程式碼我貼在裡，以及成果圖。
+然後在這裏解釋一下為什麼用window電腦vscode跑出來後不直接上傳就好，因為我的github綁定google帳號，然後忘記密碼（因為mac電腦會自動記錄），所以沒辦法在其他電腦上登入。
 ```powershell
 PS C:\Users\Patrick\Documents\GitHub\algo> python a.py
 [nltk_data] Downloading package punkt to
@@ -35,7 +36,7 @@ PS C:\Users\Patrick\Documents\GitHub\algo> python a.py
 
 ![345261136_254357717004633_3305157075479743131_n](https://user-images.githubusercontent.com/99531648/236668007-607fb31a-fdbb-465b-91fe-c1c61a90d1bf.png)
 
-[Medium](https://medium.com/@amanda55131/葡萄酒愛好者之路-98beec7ce965)
+[作業四Medium](https://medium.com/@amanda55131/葡萄酒愛好者之路-98beec7ce965)
 
 
 
