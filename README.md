@@ -35,6 +35,7 @@ PS C:\Users\Patrick\Documents\GitHub\algo> python a.py
 
 ![345261136_254357717004633_3305157075479743131_n](https://user-images.githubusercontent.com/99531648/236668007-607fb31a-fdbb-465b-91fe-c1c61a90d1bf.png)
 
+[Medium](https://medium.com/@amanda55131/葡萄酒愛好者之路-98beec7ce965)
 
 
 
