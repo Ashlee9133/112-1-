@@ -47,6 +47,6 @@ PS C:\Users\Patrick\Documents\GitHub\algo> python a.py
 （然後我跑圖的時候第一次有跑出來，但重新整理之後就不見了，Jupyter放上Github似乎有時候就會出現這樣的現象，我會再把他弄出來，故我一樣先上傳，後面再來解決穩定性的技術問題，我覺得這對小菜鳥來說有點艱難，因為要不斷去找發生什麼事。）
 
 
-[作業五Medium]
+[作業五Medium](https://medium.com/@amanda55131/共現性分析無法成功跑出的案例-9ca9cd8d6dd8)
 
 ## 專題連結區
