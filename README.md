@@ -38,7 +38,7 @@ PS C:\Users\Patrick\Documents\GitHub\algo> python a.py
 
 [作業四Medium](https://medium.com/@amanda55131/葡萄酒愛好者之路-98beec7ce965)
 
-5.[作業五]()
+5.[作業五](https://github.com/Ashlee9133/112-1-NTNU_TAHRD_Programming-Language/blob/main/HW5.ipynb)
 先把結論寫在這裡：我想說我剛好做到了一個反例的示範，那我想我就從中反饋學習。
 沿用作業三的資料，但最後做完共現性跑不出任何東西，是因為我抓的資料是一個銷售網站，可以理解成，例如賣粉紅酒的頁面不會出現介紹白葡萄酒的頁面。
 我從中了解到銷售網站是沒辦法去做這樣的資料分析表現。
